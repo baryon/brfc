@@ -1,0 +1,23 @@
+{
+  "name": "@moneybutton/brfc",
+  "version": "0.38.3",
+  "description": "Money Button isomorphic brfc implementation.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+  },
+  "author": "Yours Inc.",
+  "license": "Open-BSV",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "bsv": "^1.5.5"
+  },
+  "devDependencies": {
+  }
+}
